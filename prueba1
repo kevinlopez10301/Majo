@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Para mi Andreita</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <h1>Quieres ser mi Valentín? ❤️</h1>
+    </header>
+
+    <section id="inicio">
+        <h2>Bienvenida</h2>
+        <p>Hola mi amor, aquí hay una sola opción.</p>
+    </section>
+
+    <section id="galeria">
+        <h2>Amor</h2>
+        <div class="galería-imágenes">
+            <img src="images/majo_1.jpg" alt="Foto 1">
+            <img src="images/majo_2.jpg" alt="Foto 2">
+        </div>
+    </section>
+
+    <section id="mensajes">
+        <h2>Recuerda</h2>
+        <p>Eres lo más importante en mi vida. Te amo mucho.</p>
+    </section>
+
+    <footer>
+        <p>Hecho con ❤️ por [Kevin]</p>
+    </footer>
+
+    <script src="script.js"></script>
+</body>
+</html>
